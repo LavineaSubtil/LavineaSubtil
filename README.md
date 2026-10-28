@@ -63,38 +63,38 @@ var lavinea = new Dev
 
 ## 🚀 Projetos em destaque
 
-<p align="center">
-  <a href="https://github.com/LavineaSubtil/SimuladorTrocaCalor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LavineaSubtil&repo=SimuladorTrocaCalor&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&description_lines_count=3" alt="Simulador de Troca de Calor"/>
-  </a>
-  <a href="https://github.com/LavineaSubtil/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LavineaSubtil&repo=portfolio&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&description_lines_count=3" alt="Portfólio"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 [Simulador de Troca de Calor](https://github.com/LavineaSubtil/SimuladorTrocaCalor)
+
+Matriz de cubos de materiais reais trocando calor pela **Lei de Fourier**, com mapa de cores por temperatura, computação paralela e gravação no MySQL.
+
+<img src="https://img.shields.io/badge/C%23-6b21a8?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows%20Forms-6b21a8?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-6b21a8?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Portfólio](https://github.com/LavineaSubtil/portfolio)
+
+Meu cantinho na web, com quem eu sou e o que ando construindo.
+
+<img src="https://img.shields.io/badge/HTML-6b21a8?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-6b21a8?style=flat-square&logo=css&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LavineaSubtil&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&ring_color=a855f7&locale=pt-br" alt="estatísticas"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavineaSubtil&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e9d5ff&locale=pt-br" alt="linguagens"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=LavineaSubtil&hide_border=true&background=0d1117&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=e9d5ff&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=9ca3af&stroke=3b0764&locale=pt_BR" alt="sequência"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LavineaSubtil&bg_color=0d1117&color=e9d5ff&line=a855f7&point=c084fc&area=true&area_color=a855f7&hide_border=true&custom_title=Minhas%20contribui%C3%A7%C3%B5es" alt="gráfico de contribuições"/>
-</p>
-
----
-
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LavineaSubtil&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="troféus"/>
 </p>
 
 ---
