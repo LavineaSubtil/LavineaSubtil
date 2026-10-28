@@ -30,10 +30,21 @@ const eu = {
 
 </td>
 <td width="45%" align="center">
-  <img src="./gatinho.jpg" alt="gatinho neon dormindo" width="260"/>
+  <img src="./gatinho.jpg" alt="gatinho dormindo no notebook" width="260"/>
 </td>
 </tr>
 </table>
+
+---
+
+## 🌸 Conecte-se comigo
+
+<p align="center">
+  <a href="https://linkedin.com/in/LavineaSubtil"><img src="https://img.shields.io/badge/LinkedIn-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/LavineaSubtil"><img src="https://img.shields.io/badge/Instagram-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-B388FF?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -48,7 +59,24 @@ const eu = {
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LavineaSubtil&show_icons=true&theme=radical&bg_color=1a1033&title_color=c77dff&icon_color=b388ff&text_color=e0d4ff&border_color=7b2ff7&hide_border=false"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavineaSubtil&layout=compact&bg_color=1a1033&title_color=c77dff&text_color=e0d4ff&border_color=7b2ff7"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=LavineaSubtil&background=1A1033&ring=B388FF&fire=C77DFF&currStreakNum=E0D4FF&sideNums=E0D4FF&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=9D8AC7&stroke=7B2FF7&border=7B2FF7"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LavineaSubtil&bg_color=1a1033&color=e0d4ff&line=b388ff&point=c77dff&area=true&area_color=7b2ff7&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LavineaSubtil&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=6&row=1"/>
 </p>
 
 ---
