@@ -14,6 +14,14 @@
 
 ## 💜 Sobre mim
 
+Desenvolvedora **front-end e UI/UX** que usa **IA e automação** para construir soluções de ponta a ponta, do protótipo no Figma ao código em React.
+
+- 💼 Ex-estagiária de TI na **Banestes Asset Management** (fev/2025 – jun/2026): front-end, UI/UX, sistemas internos e automações
+- ⚙️ Automações em **Google Apps Script** que eliminaram tarefas manuais de **2 a 3 horas**
+- 🤖 Uso **Claude** e **Gemini** no dia a dia para prototipar, revisar código e resolver problemas
+- 📚 Cursando a formação **AI Driven Development** (Formação.Dev)
+- 🎓 Análise e Desenvolvimento de Sistemas (UCL), conclusão prevista em **jul/2027**
+
 <table>
 <tr>
 <td width="55%">
@@ -21,8 +29,9 @@
 ```js
 const eu = {
   nome: "Lavinea",
-  local: "Brasil 🇧🇷",
-  estudando: ["JavaScript", "React", "Python"],
+  local: "Serra/ES 🇧🇷",
+  foco: ["front-end", "UI/UX", "IA e automação"],
+  estudando: ["AI Driven Development", "React", "Python"],
   hobbies: ["código", "games", "fazer carinho em gatos 🐱"],
   frase: "take breaks! drink water :3",
 };
@@ -40,7 +49,7 @@ const eu = {
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,tailwind,git,github,figma,vscode&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,tailwind,supabase,git,github,figma&theme=dark&perline=6"/>
 </p>
 
 ---
@@ -61,7 +70,7 @@ Cubos de materiais reais trocando calor pela Lei de Fourier, com mapa de cores p
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Portfólio](https://github.com/LavineaSubtil/portfolio)
+### 🌐 [Portfólio](https://portfolio-eta-one-ae9ei5wnug.vercel.app/)
 
 Meu cantinho na web, com quem eu sou e o que ando construindo.
 
@@ -70,7 +79,40 @@ Meu cantinho na web, com quem eu sou e o que ando construindo.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦪 Projeto Sururu
+
+Software de gestão que estou construindo do zero, com autenticação e banco de dados. *(em desenvolvimento)*
+
+<img src="https://img.shields.io/badge/React-7B2FF7?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-9D4EDD?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-7B2FF7?style=flat-square&logo=supabase&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 [Banestes Investimentos](https://www.banestes.com.br/site/asset/)
+
+Site institucional da gestora: front-end, UI/UX e a persona Alana, do esboço à arte final.
+
+<img src="https://img.shields.io/badge/Front--end-7B2FF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI%2FUX-9D4EDD?style=flat-square&logo=figma&logoColor=white"/>
+
+</td>
+</tr>
 </table>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://portfolio-eta-one-ae9ei5wnug.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lav%C3%ADnea-subtil-ba290a355"><img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:lavineasubtil10@gmail.com"><img src="https://img.shields.io/badge/E--mail-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
