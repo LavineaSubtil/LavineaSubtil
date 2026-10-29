@@ -18,7 +18,7 @@ Desenvolvedora **front-end e UI/UX** que usa **IA e automação** para construir
 
 - 💼 Ex-estagiária de TI na **Banestes Asset Management** (fev/2025 – jun/2026): front-end, UI/UX, sistemas internos e automações
 - ⚙️ Automações em **Google Apps Script** que eliminaram tarefas manuais de **2 a 3 horas**
-- 🤖 Uso **Claude** e **Gemini** no dia a dia para prototipar, revisar código e resolver problemas
+- 🤖 Construo agentes de IA com **n8n** e **Gemini** ([Pixel Bistrô](https://pixel-bistro-site.vercel.app)) e uso **Claude** e **Gemini** no dia a dia
 - 📚 Cursando a formação **AI Driven Development** (Formação.Dev)
 - 🎓 Análise e Desenvolvimento de Sistemas (UCL), conclusão prevista em **jul/2027**
 
@@ -57,6 +57,20 @@ const eu = {
 ## 🚀 Projetos
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🍔 [Pixel Bistrô](https://pixel-bistro-site.vercel.app) · agentes de IA para delivery
+
+Agentes com **n8n + Gemini** que leem pedidos e avaliações de um restaurante: respondem o cliente na hora, mandam alerta quando a avaliação é ruim e enviam um relatório semanal com métricas e ações. [Testar o site](https://pixel-bistro-site.vercel.app) · [Ver o código](https://github.com/LavineaSubtil/pixel-bistro)
+
+<img src="https://img.shields.io/badge/n8n-7B2FF7?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-9D4EDD?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Webhooks-7B2FF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-9D4EDD?style=flat-square&logo=javascript&logoColor=white"/>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
